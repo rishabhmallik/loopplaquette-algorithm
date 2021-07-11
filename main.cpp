@@ -295,7 +295,7 @@ int main(int argc, char **argv)
         +to_string(eta)+"_lmd"+to_string(lmd)+"_"+to_string(configs)+"_"+to_string(gaps)+"_"
         +to_string(equil)+".txt";
     //data.open(filename);
-    data.open("mu_vs_rho.txt");
+    data.open("mu_vs_n.txt");
     data1.open("mu_vs_phi2.txt");
     //data2.open("mu_vs_phi4.txt");
     
